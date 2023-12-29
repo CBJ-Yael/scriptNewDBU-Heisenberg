@@ -1,4 +1,4 @@
-local users = {'Tech_Sorcerer','programmer_more','princeofwales123','Scaryfasterik4'};
+local users = {'Tech_Sorcerer','programmer_more','princeofwales123','scaryfasterik4'};
 local yo = game:GetService('Players').LocalPlayer
 local pase = false
 
